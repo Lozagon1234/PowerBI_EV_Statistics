@@ -1,4 +1,4 @@
-# 📊 Proyecto Power BI: Estadísticas de Vehículos Eléctricos
+# 📊 Proyecto Power BI: Estadísticas mundiales de uso de vehículos eléctricos
 
 Este repositorio contiene un **proyecto en Power BI** sobre **vehículos eléctricos (VE)**, analizando su evolución a lo largo de los años en distintos países, diferenciando por tipo de vehículo y tecnología de propulsión.
 
