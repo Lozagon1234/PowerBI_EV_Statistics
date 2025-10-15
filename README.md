@@ -7,7 +7,7 @@ Este repositorio contiene un **proyecto en Power BI** sobre **vehículos eléctr
 - Dashboard con métricas clave y tendencias anuales.
 - Filtros y slicers para explorar los datos de forma dinámica.
   
-## Objetivo
+## Objetivos
 
 1. Partir de **datos públicos del [IEA Data Portal](https://www.iea.org/data-and-statistics)**, recopilarlos, limpiarlos y transformarlos para generar un conjunto de datos estructurado y listo para el análisis.  
 2. Mostrar de manera clara y visual la evolución de la adopción de vehículos eléctricos a nivel internacional, diferenciando por tipos de vehículos y tecnologías de propulsión.
